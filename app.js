@@ -33,3 +33,4 @@ require('./route/stock.js')(app);
 require('./route/payment.js')(app);
 
 initServer();
+// project backend
